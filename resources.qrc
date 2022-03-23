@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/time_series_viewing_tool" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
